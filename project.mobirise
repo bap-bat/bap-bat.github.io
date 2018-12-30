@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Церковь Евангельских христиан баптисов города Батайска",
-    "currentPage": "articles.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
@@ -557,11 +557,11 @@
             "theme": "shady",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1024x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mbr-2-1920x1281.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/mbr-4-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-8-85x48.png",
                 "title": "Перемена",
                 "text": "УМА",
                 "active": true
@@ -584,6 +584,16 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-2-85x48.png",
                 "title": "изучение",
                 "text": "БИБЛИИ",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1024x576.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/mbr-1920x1238.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/mbr-5-85x48.png",
+                "title": "новая",
+                "text": "ЖИЗНЬ",
                 "active": false
               }
             ],
@@ -637,7 +647,7 @@
             }
           },
           "_name": "testimonials3",
-          "_customHTML": "<section class=\"testimonials3\" group=\"Testimonials\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n\n      <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/background5.jpg\">\n        <input type=\"color\" title=\"Цвет фона\" value=\"#f3f4f6\" selected>\n        <input type=\"video\" title=\"Фоновое видео\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n      </fieldset>\n      <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n      <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n      <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\"> \n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"media-content px-3 align-self-center mbr-white py-2\">\n                <p class=\"mbr-text testimonial-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".testimonial-text\">\n                   Cамостоятельно выучить иностранный язык очень сложно. Но стоит какое-то время пожить среди носителей языка, как язык выучивается сам собой. Так и в Церкви,  - я нахожусь среди носителей Благодати.\n                </p>\n                <p class=\"mbr-author-name pt-4 mb-2 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-name\">\n                   Олег М</p>\n                <p class=\"mbr-author-desc mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-desc\">\n                   Сайтоделец и администратор</p>\n            </div>\n\n            <div class=\"mbr-figure pl-lg-5\" mbr-style=\"{'width':mediaSize + '%'}\">\n              <img src=\"@PROJECT_PATH@/assets/images/img-57330f2959de0-1-1100x1100.jpg\" alt title>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"testimonials3\" group=\"Testimonials\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Размер медиа\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n\n      <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/background5.jpg\">\n        <input type=\"color\" title=\"Цвет фона\" value=\"#f3f4f6\" selected>\n        <input type=\"video\" title=\"Фоновое видео\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n      </fieldset>\n      <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n      <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n      <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\"> \n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"media-content px-3 align-self-center mbr-white py-2\">\n                <p class=\"mbr-text testimonial-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".testimonial-text\">\n                   Cамостоятельно выучить иностранный язык очень сложно. Но стоит какое-то время пожить среди носителей языка, как язык выучивается сам собой. Так и в Церкви,  - я нахожусь среди носителей Благодати.\n                </p>\n                <p class=\"mbr-author-name pt-4 mb-2 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-name\">\n                   Олег М</p>\n                <p class=\"mbr-author-desc mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-desc\">\n                   Сайтоделец и администратор</p>\n            </div>\n\n            <div class=\"mbr-figure pl-lg-5\" mbr-style=\"{'width':mediaSize + '%'}\">\n              <img src=\"@PROJECT_PATH@/assets/images/mbr-1162x902.jpg\" alt title>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdIjT1wzoW",
           "_anchor": "testimonials3-r",
           "_protectedParams": [],
