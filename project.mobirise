@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Церковь Евангельских христиан баптисов города Батайска",
+    "name": "Церковь Евангельских христиан баптистов города Батайска",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -54,8 +54,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Главная",
+        "meta_descr": "Главная страница официального сайта Церкви Евангельских христиан баптистов города Батайска",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -916,7 +916,7 @@
     },
     "news.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "страница событий официального сайта Церкви Евангельских христиан баптистов города Батайска",
         "title": "События",
         "order": 5
       },
@@ -1611,7 +1611,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "страница официального сайта Церкви Евангельских христиан баптистов города Батайска",
         "title": "О нас",
         "order": 4
       },
@@ -2450,7 +2450,7 @@
     },
     "contacts.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "страница контактов официального сайта Церкви Евангельских христиан баптистов города Батайска",
         "title": "Контакты",
         "order": 3
       },
@@ -3024,7 +3024,7 @@
     },
     "articles.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "страница стстей официального сайта Церкви Евангельских христиан баптистов города Батайска",
         "title": "Статьи",
         "order": 2
       },
