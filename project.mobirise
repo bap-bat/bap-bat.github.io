@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Церковь Евангельских христиан баптистов города Батайска",
-    "currentPage": "principles_of_baptism.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -643,8 +643,8 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "carousel",
-            "theme": "shady",
+            "animType": "glass_parallax",
+            "theme": "native",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-8-1024x576.jpg",
@@ -654,7 +654,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-8-85x48.png",
                 "title": "Перемена",
                 "text": "УМА",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1024x576.jpg",
@@ -664,7 +664,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-3-85x48.png",
                 "title": "молитва",
                 "text": "БОГУ",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1024x576.jpg",
