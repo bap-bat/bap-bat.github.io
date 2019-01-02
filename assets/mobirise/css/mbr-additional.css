@@ -7275,6 +7275,7 @@ body {
   .cid-rdBOELR99Z .navbar-expand {
     flex-direction: column;
     -webkit-flex-direction: column;
+    background: 0,0,0,0;
   }
   .cid-rdBOELR99Z img {
     height: 3.8rem !important;
