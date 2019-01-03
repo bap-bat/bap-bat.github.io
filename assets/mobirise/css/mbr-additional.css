@@ -10031,13 +10031,17 @@ body {
   color: #ffffff !important;
 }
 .cid-re6JfNlxDb {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-re6JfNlxDb .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-re6JfNlxDb .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
