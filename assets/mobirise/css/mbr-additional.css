@@ -2427,7 +2427,10 @@ body {
 .cid-rdOtdNvc2M {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/mbr-12-1920x1280.jpg");
+}
+.cid-rdOtdNvc2M .mbr-section-subtitle {
+  color: #cccccc;
 }
 .cid-rdUfxZ3o9p {
   padding-top: 60px;
