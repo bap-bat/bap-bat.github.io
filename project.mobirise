@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Церковь Евангельских христиан баптистов города Батайска",
-    "currentPage": "photo.html",
+    "currentPage": "110_years.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7712,7 +7712,7 @@
                 "title": "Поем",
                 "customStyle1": "display-7",
                 "caption": "Поём",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Поём",
@@ -7869,6 +7869,110 @@
                 "customStyle1": "display-7",
                 "caption": "Пируем",
                 "active": false
+              },
+              {
+                "tags": "Слушаем",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7476-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7476-1725x1150-800x533.jpg",
+                "alt": "Слушаем",
+                "title": "Слушаем",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Слушаем",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7478-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7478-1725x1150-800x533.jpg",
+                "alt": "Слушаем",
+                "title": "Слушаем",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Готовим",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7552-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7552-1725x1150-800x533.jpg",
+                "alt": "Готовим",
+                "title": "Готовим",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Готовим",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7563-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7563-1725x1150-800x533.jpg",
+                "alt": "Готовим",
+                "title": "Готовим",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Облизываемся",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7537-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7537-1725x1150-800x533.jpg",
+                "alt": "Облизываемся",
+                "title": "Облизываемся",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Облизываемся",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7543-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7543-1725x1150-800x533.jpg",
+                "alt": "Облизываемся",
+                "title": "Облизываемся",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Слушаем",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7650-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7650-1725x1150-800x533.jpg",
+                "alt": "Слушаем",
+                "title": "Слушаем",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": false
+              },
+              {
+                "tags": "Поём",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7617-1725x1150.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7617-1725x1150-800x533.jpg",
+                "alt": "Поём",
+                "title": "Поём",
+                "customStyle1": "display-7",
+                "caption": "Поём",
+                "active": true
               }
             ]
           }
