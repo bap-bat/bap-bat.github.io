@@ -5907,6 +5907,21 @@ body {
 .cid-reshvn6ccz .mbr-section-subtitle {
   color: #767676;
 }
+.cid-reuoejwFxL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-reuoejwFxL .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-reuoejwFxL .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-rdVsHwprXQ {
   padding-top: 60px;
   padding-bottom: 60px;
