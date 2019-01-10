@@ -693,7 +693,7 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "glass_parallax",
+            "animType": "carousel",
             "theme": "native",
             "slides": [
               {
@@ -740,7 +740,7 @@
             "fullScreen": true,
             "showCaptions": true,
             "hideControls": true,
-            "responsive": "3",
+            "responsive": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
             "captionsEffect": "slide",
