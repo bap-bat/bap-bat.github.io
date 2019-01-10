@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Церковь Евангельских христиан баптистов города Батайска",
-    "currentPage": "index.html",
+    "currentPage": "photo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -704,7 +704,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-8-85x48.png",
                 "title": "Перемена",
                 "text": "УМА",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1024x576.jpg",
@@ -714,7 +714,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mbr-3-85x48.png",
                 "title": "молитва",
                 "text": "БОГУ",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1024x576.jpg",
