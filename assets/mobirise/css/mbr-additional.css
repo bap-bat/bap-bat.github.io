@@ -1785,8 +1785,8 @@ body {
   background-image: url("../../../assets/images/bible-header-1-1920x1278.jpg");
 }
 .cid-rdTYRNfsYG {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-color: #f9f9f9;
 }
 .cid-rdTYRNfsYG .mbr-section-subtitle {
@@ -1876,6 +1876,26 @@ body {
 }
 .cid-rdTYRNfsYG .mbr-section-title {
   color: #149dcc;
+}
+.cid-reJqt7FI9b {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+@media (min-width: 992px) {
+  .cid-reJqt7FI9b .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-reJqt7FI9b .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-reJqt7FI9b .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rdIjT1wzoW {
   padding-top: 15px;
@@ -8391,7 +8411,7 @@ body {
 .cid-re1h9qVomu {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/-37-1280x960.jpg");
+  background-image: url("../../../assets/images/37-1280x960.jpg");
 }
 .cid-re1igELM5O {
   padding-top: 90px;
